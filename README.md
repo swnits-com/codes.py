@@ -1,1 +1,2 @@
-# codes.py
+text = input("text:") 
+print(text.lower())
